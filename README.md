@@ -14,8 +14,8 @@ Algo simples mas que foi de grande aprenzidado para mim, cada linha de código �
 - Efeito de **hover** nos botões e input.
 
 ## Acesse o projeto
-Espero que gostem.
-[Clique aqui para visualizar](https://carlosedukj.github.io/tela-de-login/)  
+Espero que gostem 
+  [Clique aqui para visualizar o projeto.](https://carlosedukj.github.io/tela-de-login/)  
 
 # Objetivo
 Este projeto foi criado com fins de **prática** para reforçar conceitos básicos de HTML e CSS, servindo como passo inicial na construção de um portfólio front-end.
